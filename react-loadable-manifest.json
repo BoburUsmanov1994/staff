@@ -1,0 +1,71 @@
+{
+  "..\\@core\\components\\react-apexcharts\\index.js -> react-apexcharts": {
+    "id": 47229,
+    "files": [
+      "static/chunks/70cfe1b1.49965021039f02ce.js",
+      "static/chunks/7229.bee6500ba63a2089.js"
+    ]
+  },
+  "..\\@core\\components\\react-draft-wysiwyg\\index.js -> react-draft-wysiwyg": {
+    "id": 35108,
+    "files": [
+      "static/chunks/2c386607.277d2a6f405a902c.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsAreaChart": {
+    "id": 15781,
+    "files": [
+      "static/chunks/9198-2bd29a4a79329485.js",
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/5781.39f31283f574d5f8.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsBarChart": {
+    "id": 71527,
+    "files": [
+      "static/chunks/9198-2bd29a4a79329485.js",
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/8419.f73ea24cdb7d91c0.js",
+      "static/chunks/1527.0c3fcc4d05b23c2f.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsLineChart": {
+    "id": 90911,
+    "files": [
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/8419.f73ea24cdb7d91c0.js",
+      "static/chunks/911.83bd42d0bf84a710.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsPieChart": {
+    "id": 75520,
+    "files": [
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/5708.30fd35c15c5f4ffb.js",
+      "static/chunks/5520.5c0fc4834b2f2fe0.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsRadarChart": {
+    "id": 31351,
+    "files": [
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/5708.30fd35c15c5f4ffb.js",
+      "static/chunks/1351.5ad86a79ed9b5ae5.js"
+    ]
+  },
+  "charts\\recharts\\index.js -> src/views/charts/recharts/RechartsScatterChart": {
+    "id": 16000,
+    "files": [
+      "static/chunks/9198-2bd29a4a79329485.js",
+      "static/chunks/1524-136760f76ba5f97d.js",
+      "static/chunks/8229.56129a6cf52ed697.js",
+      "static/chunks/8419.f73ea24cdb7d91c0.js",
+      "static/chunks/6000.8b64a8931f67d264.js"
+    ]
+  }
+}
